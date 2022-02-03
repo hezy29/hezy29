@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hezy29. Currently a senior student majoring in **STATISTICS** in **Sun Yat-sen University (SYSU)**. 
 - 💪 I'm skilled in R, Python and Matlab. 
-<!-- - 👀 I’m interested in **Machine Learning** and **Data Datawarehouse**.  -->
-- 🌱 I’m currently learning **Statistical Computing** & **NLP**. 
+- 📖 I have received the master offer from @NUS and been expecting more😆. 
+- 👀 I’m searching internship opportunities regarding **Computer Vision** or **NLP**, and I am trying to gain my first related internship in @SenseTime. 
+- 🌱 I’m currently preparing for my graduation thesis. 
 <!-- - 💞️ I’m looking to collaborate on **R** project about **Data Science**.  -->
 - 📫 How to reach me : 
   - 🏫 School Email : hezy29@mail2.sysu.edu.cn
