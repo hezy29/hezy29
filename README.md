@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hezy29. Currently a senior student majoring in **STATISTICS** in **Sun Yat-sen University (SYSU)**. 
 - 💪 I'm skilled in R, Python and Matlab. 
-- 📖 I am a incoming master student @NUS😆. 
+- 📖 I am an incoming master student @NUS😆. 
 - 👀 I’m a data analyst intern @MARS in Guangzhou.  
 - 🌱 I’m currently preparing for my graduation thesis. 
 <!-- - 💞️ I’m looking to collaborate on **R** project about **Data Science**.  -->
