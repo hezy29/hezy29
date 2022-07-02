@@ -21,7 +21,7 @@
   
   <h1>
     Welcome
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
   </h1>
 </div>
 
@@ -32,14 +32,14 @@
 
 ### 👨‍🎓 About Me : 
 
-- 👋 Hi, I’m @hezy29. Currently a senior student majoring in **STATISTICS** in **Sun Yat-sen University (SYSU)**. 
+- 👋 Hi, I’m @hezy29. I have obtained my bachelor degree of science in **STATISTICS** at **Sun Yat-sen University (SYSU)**. 
 - 💪 I'm skilled in R, Python and Matlab. 
 - 📖 I am an incoming master student @NUS 🇸🇬. 
-- 👀 I’m working as a data analyst intern @MARS in Guangzhou.  
+- 👀 I have finished my internship working as a data analyst intern @MARS in Guangzhou.  
 <!-- - 🌱 I’m currently preparing for my graduation thesis.  -->
 <!-- - 💞️ I’m looking to collaborate on **R** project about **Data Science**.  -->
 - 📫 How to reach me : 
-  - 🏫 School Email : [hezy29@mail2.sysu.edu.cn](mailto:hezy29@mail2.sysu.edu.cn)
+  - 🏫 School Email : [he.ziyang@u.nus.edu](mailto:he.ziyang@u.nus.edu)
   - 👤 Personal Email : [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heziyang2000@gmail.com) [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:heziyang2000@outlook.com)
 
 
