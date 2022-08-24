@@ -32,10 +32,10 @@
 
 ### 👨‍🎓 About Me : 
 
-- 👋 Hi, I’m @hezy29. I have obtained my bachelor degree of science in **STATISTICS** at **Sun Yat-sen University (SYSU)**. 
-- 💪 I'm skilled in Python, R, SQL and Matlab. 
-- 📖 I am an incoming master student @NUS 🇸🇬. 
-- 👀 I have finished my internship working as a data analyst intern @MARS in Guangzhou.  
+- 👋 Hi, I’m @hezy29. I am now a full-time MComp candidate @NUS 🇸🇬. 
+- 📖 I obtained my bachelor's degree in Stats @SYSU 🇨🇳. 
+- 💪 I'm skilled in Python, R, SQL and MATLAB. 
+- 💻 My last internship was working as a data analyst intern @MARS in Guangzhou. 
 <!-- - 🌱 I’m currently preparing for my graduation thesis.  -->
 <!-- - 💞️ I’m looking to collaborate on **R** project about **Data Science**.  -->
 - 📫 How to reach me : 
