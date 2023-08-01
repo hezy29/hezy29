@@ -39,7 +39,7 @@
 <!-- - 🌱 I’m currently preparing for my graduation thesis.  -->
 <!-- - 💞️ I’m looking to collaborate on **R** project about **Data Science**.  -->
 - 📫 How to reach me : 
-  - 🏫 School Email : [he.ziyang@u.nus.edu](mailto:he.ziyang@u.nus.edu) or [heziyang@comp.nus.edu.sg](mailto:heziyang@comp.nus.edu.sg)
+  - 🏫 School Email : [heziyang@u.nus.edu](mailto:heziyang@u.nus.edu) or [heziyang@comp.nus.edu.sg](mailto:heziyang@comp.nus.edu.sg)
   - 👤 Personal Email : [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heziyang2000@gmail.com) [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:heziyang2000@outlook.com)
 
 
