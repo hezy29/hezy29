@@ -34,8 +34,8 @@
 
 - 👋 Hi, I’m @hezy29. I am now a full-time MComp candidate @NUS 🇸🇬. 
 - 📖 I obtained my bachelor's degree in Stats @SYSU 🇨🇳. 
-- 💪 I'm skilled in Python, R, SQL and MATLAB. 
-- 💻 My last internship was working as a data analyst intern @MARS in Guangzhou. 
+- 💪 I'm skilled in Python, R, SQL, and MATLAB. 
+- 💻 My last internship was working as a data engineer/data analyst intern @GAAM in Hong Kong. 
 <!-- - 🌱 I’m currently preparing for my graduation thesis.  -->
 <!-- - 💞️ I’m looking to collaborate on **R** project about **Data Science**.  -->
 - 📫 How to reach me : 
